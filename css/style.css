@@ -74,10 +74,10 @@ ol li:nth-child(even){
 
 li:hover{
   cursor: pointer;
- }
+}
 
- h3, p {
- 	font-style: italic;
- 	color: #C0C0C0;
- }
+h3, p {
+font-style: italic;
+color: #C0C0C0;
+}
 
